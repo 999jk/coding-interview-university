@@ -50,6 +50,9 @@ Facebook and Microsoft view software engineering as different from software/web 
 
 If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
 
+Others:
+https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b
+
 ---
 
 ## Table of Contents
